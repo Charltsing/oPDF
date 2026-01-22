@@ -16,11 +16,11 @@ I want to declare two prerequisite skills:
 **The general operation process for beginners using oPDF is as follows**: first, drag the PDF onto the soft window, then click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark. You can submit an issue to me.
 
 User Guide
-1. [Wice](https://github.com/aelyo-softworks/Wice),[Remove TextWatermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
-2. [Remove ImageWatermarks] https://zhuanlan.zhihu.com/p/1992482307941107092
-3. [Use wildcard characters] https://zhuanlan.zhihu.com/p/1992485901910159711
-4. [Remove Artifact Watermarks] https://zhuanlan.zhihu.com/p/1994421106275267960
-5. [Process Resource Watermarks and Artifact Watermarks by serial number] https://zhuanlan.zhihu.com/p/1995492413335180007
-6. [Remove Annotation Watermarks] https://zhuanlan.zhihu.com/p/1996631418231607699
+1. [Remove TextWatermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
+2. [Remove ImageWatermarks](https://zhuanlan.zhihu.com/p/1992482307941107092)
+3. [Use wildcard characters](https://zhuanlan.zhihu.com/p/1992485901910159711)
+4. [Remove Artifact Watermarks](https://zhuanlan.zhihu.com/p/1994421106275267960)
+5. [Process Resource Watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
+6. [Remove Annotation Watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
 
 and so on ...
