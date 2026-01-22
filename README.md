@@ -27,3 +27,6 @@ User Guide
 6. [Remove Annotation Watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
 
 To be continued ...
+
+BTW：
+Some PDF samples are included in the project to demonstrate to beginners the simple watermarks that oPDF can handle.
