@@ -12,8 +12,10 @@ oPDF can freely modify the instruction set of document page content flow and res
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot1.JPG)
 
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot2.JPG)
+Hover the mouse over the label to see help information  
 
-I want to declare two prerequisite skills:
+
+**I want to declare two prerequisite skills:**
 1. The prerequisite for using oPDF is to understand the PDF operator instructions, all of which are included in the *Introduction*.
 2. Before analyzing the watermark, first take a look at the *View resource images* to determine if the watermark is drawn on the image. If so, you will need my other software - [Picture Magick Pro](https://www.cnblogs.com/Charltsing/p/PictureMagick.html).
 
