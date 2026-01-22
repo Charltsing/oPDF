@@ -14,7 +14,7 @@ I want to declare two prerequisite skills:
 2. Before analyzing the watermark, first take a look at the *View resource images* to determine if the watermark is drawn on top of the image. If so, you will need my other software - Picture Magick Pro.
 
 **The general operation process for beginners using oPDF is as follows**:  
-first, drag the PDF onto the soft window, then click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark. You can submit an issue to me.
+First, drag the PDF onto the soft window, then click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark. You can submit an issue to me.
 
 User Guide
 1. [Remove TextWatermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
