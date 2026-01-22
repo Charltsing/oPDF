@@ -9,6 +9,8 @@ oPDF can remove editing permissions, flatten forms, eliminate page interactions,
 
 oPDF can freely modify the instruction set of document page content flow and resource content flow, including changing text, color, and position. In other words, it can modify fixed content on the page at once, not just remove watermarks.
 
+![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot1.JPG)
+
 I want to declare two prerequisite skills:
 1. The prerequisite for using oPDF is to understand the PDF operator instructions, all of which are included in the *Introduction*.
 2. Before analyzing the watermark, first take a look at the *View resource images* to determine if the watermark is drawn on top of the image. If so, you will need my other software - Picture Magick Pro.
