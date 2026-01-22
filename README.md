@@ -29,4 +29,4 @@ User Guide
 To be continued ...
 
 BTW：
-Some PDF samples are included in the project to demonstrate to beginners the simple watermarks that oPDF can handle.
+The project includes some PDF samples for beginners to learn how to use oPDF to remove simple watermarks from PDF documents.
