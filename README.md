@@ -1,10 +1,10 @@
 # oPDF
   oPDF v2.0 may be the first software to fully showcase the [Wice](https://github.com/aelyo-softworks/Wice) UI framework. The reason why it is said to be the first one is that I submitted nearly 70 issues to make my software interface run and implement the necessary features (large text output, high DPI, and AOT publishing). So I want to thank [smourier](https://github.com/smourier) for making the birth of oPDF software possible.
 
-  oPDF can parse the internal structure of PDF documents and display and process them as needed. That is to say, it will moderately display the embedded resources such as content flow operators, various forms, images, annotations, etc. inside the PDF document to the user. If you can understand these contents, you can find the watermark or other information that needs to be located. The remaining work is to fill in parameter processing operators or resource objects, also known as removing watermarks.
-  oPDF can kill eight types of PDF watermarks, including annotation watermark, text watermark, curve watermark, path watermark, trace watermark, form watermark, image watermark, and pattern watermark.
-  oPDF can remove editing permissions, flatten forms, eliminate page interactions, and delete digital signatures.
-  oPDF can freely modify the instruction set of document page content flow and resource content flow, including changing text, color, and position. In other words, it can modify fixed content on the page at once, not just remove watermarks.
+    oPDF can parse the internal structure of PDF documents and display and process them as needed. That is to say, it will moderately display the embedded resources such as content flow operators, various forms, images, annotations, etc. inside the PDF document to the user. If you can understand these contents, you can find the watermark or other information that needs to be located. The remaining work is to fill in parameter processing operators or resource objects, also known as removing watermarks.
+    oPDF can kill eight types of PDF watermarks, including annotation watermark, text watermark, curve watermark, path watermark, trace watermark, form watermark, image watermark, and pattern watermark.
+    oPDF can remove editing permissions, flatten forms, eliminate page interactions, and delete digital signatures.
+    oPDF can freely modify the instruction set of document page content flow and resource content flow, including changing text, color, and position. In other words, it can modify fixed content on the page at once, not just remove watermarks.
 
 I want to declare two prerequisite skills:
 1. The prerequisite for using oPDF is to understand the PDF operator instructions, all of which are included in the *Introduction*.
