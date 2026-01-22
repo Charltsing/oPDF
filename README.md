@@ -3,7 +3,7 @@
 
 oPDF can parse the internal structure of PDF documents and display and process them as needed. That is to say, it will moderately display the embedded resources such as content flow operators, various forms, images, annotations, etc. inside the PDF document to the user. If you can understand these contents, you can find the watermark or other information that needs to be located. The remaining work is to fill in parameter processing operators or resource objects, also known as removing watermarks.
     
-oPDF can kill eight types of PDF watermarks, including annotation watermark, text watermark, curve watermark, path watermark, trace watermark, form watermark, image watermark, and pattern watermark.
+oPDF can kill eight types of PDF watermarks, including annotation watermark, text watermark, curve watermark, path watermark, artifact watermark, form watermark, image watermark, and pattern watermark.
 oPDF can remove editing permissions, flatten forms, eliminate page interactions, and delete digital signatures.
 oPDF can freely modify the instruction set of document page content flow and resource content flow, including changing text, color, and position. In other words, it can modify fixed content on the page at once, not just remove watermarks.
 
