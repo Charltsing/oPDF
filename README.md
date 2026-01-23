@@ -12,9 +12,9 @@ oPDF can freely modify the instruction set of document page content flow and res
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot1.JPG)
 
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot2.JPG)
-(Turn on transparency effects in Windows 11, Open Settings → Personalization → Colors, then toggle on Transparency effects.)  
-
-Hover the mouse over the label to see help information  
+Tips: 
+1. Turn on transparency effects in Windows 11, Open Settings → Personalization → Colors, then toggle on Transparency effects.)  
+2. Hover the mouse over the label to see help information   
 
 
 
