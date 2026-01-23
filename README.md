@@ -18,7 +18,7 @@ Tips:
 
     
 **I want to declare two prerequisite skills:**
-1. The prerequisite for using oPDF is to understand the PDF operator instructions, all of which are included in the *Introduction*.
+1. The prerequisite for using oPDF is to understand the PDF operators instructions, all of which are included in the *Introduction*.
 2. Before analyzing the watermark, first take a look at the *View resource images* to determine if the watermark is drawn on the image. If so, you will need my another software - [Picture Magick Pro](https://www.cnblogs.com/Charltsing/p/PictureMagick.html).
 
 **The general operation process for beginners using oPDF is as follows**:  
