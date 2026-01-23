@@ -12,16 +12,16 @@ oPDF can freely modify the instruction set of document page content flow and res
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot1.JPG)
 
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot2.JPG)
-**Tips:**
+**Tips:**  
 1. Turn on transparency effects in Windows 11, Open Settings → Personalization → Colors, then toggle on Transparency effects.
 2. Hover the mouse over the label to see help information.  
     
-**I want to declare two prerequisite skills:**
+**I want to declare two prerequisite skills:**  
 1. The prerequisite for using oPDF is to understand the PDF operators instructions, all of which are included in the *Introduction*.
 2. Before analyzing the watermark, first take a look at the *View resource images* to determine if the watermark is drawn on the image. If so, you will need my another software - [Picture Magick Pro](https://www.cnblogs.com/Charltsing/p/PictureMagick.html).
 
-**The general operation process for beginners using oPDF is as follows:**
-First, drag the PDF onto the soft window, then click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark. You can submit an issue to me. I will help you deal with the watermark in your PDF document
+**The general operation process for beginners using oPDF is as follows:**  
+    First, drag the PDF onto the soft window, then click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark. You can submit an issue to me. I will help you deal with the watermark in your PDF document
 
 User Guide
 1. [Remove Text Watermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
