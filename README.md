@@ -30,7 +30,7 @@ User Guide
 2. [Remove Image Watermarks](https://zhuanlan.zhihu.com/p/1992482307941107092)
 3. [Use wildcard characters](https://zhuanlan.zhihu.com/p/1992485901910159711)
 4. [Remove Artifact Watermarks](https://zhuanlan.zhihu.com/p/1994421106275267960)
-5. [Process Resource Watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
+5. [Remove Resource Watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
 6. [Remove Annotation Watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
 
 To be continued ...
