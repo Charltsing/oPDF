@@ -23,7 +23,7 @@ oPDF can freely modify the instruction set of document page content flow and res
 **The general steps for beginners using oPDF is as follows:**  
 1. Drag and drop your PDF document onto the oPDF window.
 2. click on the *View resource image* to see if there is a watermark on the image. If not, click on the *Text information* and see if it's a text watermark. If not, click on the *Annotations* and see if it is a annots. If not, click on the *Resources* for in-depth analysis. If nothing can be analyzed, it could be a curve watermark or other type of watermark.
-3. You can submit an issue with pdf.zip to me. I will help you analysis the watermarks in your PDF document and remove it if possible.  
+3. You can submit an issue with pdf.zip to me. I will help you analysis the watermarks in your PDF document and remove them if possible.  
 
 User Guide
 1. [Remove Text Watermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
