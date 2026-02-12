@@ -32,7 +32,8 @@ User Guide
 4. [Remove Artifact Watermarks](https://zhuanlan.zhihu.com/p/1994421106275267960)
 5. [Remove Resource Watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
 6. [Remove Annotation Watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
-
+7. [Remove Curve Watermarks (Color Edition)](https://zhuanlan.zhihu.com/p/2005208521139058108)
+   
 To be continued ...
 
 BTW：
