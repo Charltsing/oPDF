@@ -26,13 +26,14 @@ oPDF can freely modify the instruction set of document page content flow and res
 3. You can submit an issue with pdf.zip to me. I will help you analysis the watermarks in your PDF document and remove them if possible.  
 
 User Guide
-1. [Remove Text Watermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
-2. [Remove Image Watermarks](https://zhuanlan.zhihu.com/p/1992482307941107092)
+1. [Remove Text watermarks](https://zhuanlan.zhihu.com/p/1991825405808747927)
+2. [Remove Image watermarks](https://zhuanlan.zhihu.com/p/1992482307941107092)
 3. [Use wildcard characters](https://zhuanlan.zhihu.com/p/1992485901910159711)
-4. [Remove Artifact Watermarks](https://zhuanlan.zhihu.com/p/1994421106275267960)
-5. [Remove Resource Watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
-6. [Remove Annotation Watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
-7. [Remove Curve Watermarks (Color Edition)](https://zhuanlan.zhihu.com/p/2005208521139058108)
+4. [Remove Artifact watermarks](https://zhuanlan.zhihu.com/p/1994421106275267960)
+5. [Remove Resource watermarks and Artifact Watermarks by serial number](https://zhuanlan.zhihu.com/p/1995492413335180007)
+6. [Remove Annotation watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
+7. [Remove Curve watermarks (Color section)](https://zhuanlan.zhihu.com/p/2005208521139058108)
+8. [Remove Text watermarks (location section)](https://zhuanlan.zhihu.com/p/2005713879133622924)
    
 To be continued ...
 
