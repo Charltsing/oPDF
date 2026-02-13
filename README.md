@@ -1,7 +1,7 @@
 # oPDF
   oPDF v2.0 may be the first software to fully showcase the [Wice](https://github.com/aelyo-softworks/Wice) UI framework. The reason why it is said to be the first one is that I submitted nearly 70 issues to make my software UI run and implement the necessary features (large/log text output, high DPI, and AOT publishing). So I 'd like to thank [smourier](https://github.com/smourier) for making the birth of oPDF software possible.
 
-oPDF can parse the internal structure of PDF documents and display and process them as needed. That is to say, it will moderately display the embedded resources such as operators, forms, images, annotations, etc. inside the PDF document to the user. If you can understand these, you can find the watermark or other information that needs to be located. The remaining work is to fill in parameter processing operators or resource objects, also known as removing watermarks.
+oPDF can parse the internal structure of PDF documents and display and process them as needed. That is to say, it will moderately display the embedded resources such as operators, forms, images, annotations, etc. inside the PDF document to the user. If you can understand these, you can find the watermark or other information that needs to be located. The remaining work is to fill in parameter processing operators or resource objects, also known as removing watermarks.The most important thing is that the pdf document after oPDF processing is **lossless**
     
 oPDF can kill eight types of PDF watermarks, including annotation watermark, text watermark, curve watermark, clipping path watermark, artifact watermark, form watermark, image watermark, and pattern watermark.
 
