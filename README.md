@@ -39,3 +39,6 @@ To be continued ...
 
 BTW：
 The project includes some PDF samples for beginners to learn how to use oPDF to remove simple watermarks from PDF documents.
+
+path.pdf
+![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot3.JPG)
