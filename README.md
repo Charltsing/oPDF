@@ -40,5 +40,5 @@ To be continued ...
 BTW：
 The project includes some PDF samples for beginners to learn how to use oPDF to remove simple watermarks from PDF documents.
 
-**path.pdf**
+**path.pdf** (This is a PDF document featuring a complex clipping path watermark.)
 ![UI](https://github.com/Charltsing/oPDF/blob/main/screenshot3.JPG)
