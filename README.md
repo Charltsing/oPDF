@@ -34,7 +34,7 @@ User Guide
 6. [Remove Annotation watermarks](https://zhuanlan.zhihu.com/p/1996631418231607699)
 7. [Remove Curve watermarks (Color section)](https://zhuanlan.zhihu.com/p/2005208521139058108)
 8. [Remove Text watermarks (location section)](https://zhuanlan.zhihu.com/p/2005713879133622924)
-   
+9. [Remove Curve watermarks (three ways)](https://zhuanlan.zhihu.com/p/2040442131161027565)   
 To be continued ...
 
 BTW：
